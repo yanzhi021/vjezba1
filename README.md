@@ -1,1 +1,2 @@
-# vjezba1
+# vjezba1 
+volimo programirati skupa! :D
